@@ -1,6 +1,7 @@
 ### Hi there 👋
-Email: hongsihyeon179@gmail.com
-Blog: https://velog.io/@hongsi17
+- Email: hongsihyeon179@gmail.com
+
+- Blog: https://velog.io/@hongsi17
 
 
 <!--
