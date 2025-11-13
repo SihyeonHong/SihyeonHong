@@ -6,18 +6,18 @@
 1인 개발 및 운영 중인 서비스 목록입니다. 
 
 ## Easiest CV
-Link: ![https://www.easiest-cv.com/](https://www.easiest-cv.com/) <br />
+Link: [https://www.easiest-cv.com/](https://www.easiest-cv.com/) <br />
 웹서비스 사용에 미숙한 교수 및 연구자 대상으로, 연구 이력이 담긴 개인 CV 홈페이지를 쉽게 만들고 관리하는 사이트입니다. 
 
 - 기술 스택: Next.js (App Router), Postgresql, TailwindCSS
-- ![GitHub Repository](https://github.com/SihyeonHong/EasiestCV) 
+- [GitHub Repository](https://github.com/SihyeonHong/EasiestCV) 
 
 ## 몇살이지 - 나이 계산기 
-Link: ![https://how-old-kr.vercel.app/](https://how-old-kr.vercel.app/) <br />
+Link: [https://how-old-kr.vercel.app/](https://how-old-kr.vercel.app/) <br />
 한국 나이(빠른년생 적용/미적용), 만 나이 등을 빠르게 계산합니다. 
 
 - 기술 스택: React, Vite, TailwindCSS
-- ![GitHub Repository](https://github.com/SihyeonHong/how-old)  
+- [GitHub Repository](https://github.com/SihyeonHong/how-old)  
 
 # TECH STACK
 | TECH           | BADGES                                                                                                        |
